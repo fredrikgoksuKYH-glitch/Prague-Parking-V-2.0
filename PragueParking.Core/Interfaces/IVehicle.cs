@@ -10,6 +10,5 @@ namespace PragueParking.Core.Interfaces
     int Size { get; }
     string VehicleType { get; }
     DateTime ParkedTime { get; set; }
-    
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PragueParking.Core.Config
 {
-    internal class GarageConfig
+    public class GarageConfig
     {
         public int NumberOfFloors { get; set; } = 10;
         public int SpotsPerFloor { get; set; } = 50;
