@@ -74,3 +74,4 @@ CheckInTime till DateTime.Now
 2. Serialiseringskonstruktor som endast används när
 System.Text.Json läser in data från filen.
 Den tar emot både registreringsnummer och CheckInTime.
+a
