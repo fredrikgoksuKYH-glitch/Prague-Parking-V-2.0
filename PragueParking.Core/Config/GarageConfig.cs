@@ -33,7 +33,7 @@ namespace PragueParking.Core.Config
             return 20m;
         }
 
-        /*half onödiga valderingar MEN används i början för att hitta fel som kan hända.*/
+        /*half onödiga valderingar MEN används i början för att hitta fel som kan uppstå.*/
         public void Validate()
         {
             if (NumberOfFloors <= 0)
